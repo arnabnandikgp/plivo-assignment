@@ -114,14 +114,6 @@ A simple status page application for monitoring and displaying service status an
 
 - `GET /api/ws/:orgId` - WebSocket connection for real-time updates
 
-## Important Notes
-
-- Look for the `--->>here<<---` comments in the codebase, which highlight areas that might need your attention for:
-  - Database configuration and connections
-  - Authentication settings
-  - WebSocket implementation
-  - Other important parts of the application
-
 ## Project Structure
 
 ### Backend
@@ -155,8 +147,3 @@ frontend/
     ├── utils/      # Utility functions
     ├── App.js      # Main component
     └── index.js    # Entry point
-```
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
