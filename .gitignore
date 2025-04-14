@@ -1,20 +1,20 @@
-frontend/node_modules
-frontend/.pnp
-frontend/.pnp.js
+# Frontend dependencies
+frontend_ui/node_modules
+frontend_ui/.pnp
+frontend_ui/.pnp.js
 
-# testing
-frontend/coverage
+# Frontend testing
+frontend_ui/coverage
 
-# production
-frontend/build
+# Frontend production
+frontend_ui/build
 
-# misc
-frontend/.DS_Store
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
-
-frontend/npm-debug.log*
-frontend/yarn-debug.log*
-frontend/yarn-error.log*
+# Frontend misc
+frontend_ui/.DS_Store
+frontend_ui/.env.local
+frontend_ui/.env.development.local
+frontend_ui/.env.test.local
+frontend_ui/.env.production.local
+frontend_ui/npm-debug.log*
+frontend_ui/yarn-debug.log*
+frontend_ui/yarn-error.log*
